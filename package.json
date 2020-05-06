@@ -2,7 +2,7 @@
     "bin": {
       "flyfox": "bin/flyfox",
       "flyfox-add": "bin/flyfox-add",
-      "flyfox-delete": "bin/flyfox-delete",
+      "flyfox-delete": "bin/flyfox-del",
       "flyfox-list": "bin/flyfox-list",
       "flyfox-init": "bin/flyfox-init"
     },
