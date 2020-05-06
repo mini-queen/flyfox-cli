@@ -1,0 +1,25 @@
+{
+    "bin": {
+      "flyfox": "bin/flyfox",
+      "flyfox-add": "bin/flyfox-add",
+      "flyfox-delete": "bin/flyfox-delete",
+      "flyfox-list": "bin/flyfox-list",
+      "flyfox-init": "bin/flyfox-init"
+    },
+    "name": "flyfox-cli",
+    "version": "1.0.0",
+    "description": "A simple CLI for creating your project",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "flyfox",
+    "license": "MIT",
+    "dependencies": {
+      "chalk": "^2.4.2",
+      "commander": "^2.19.0",
+      "download-git-repo": "^1.1.0",
+      "inquirer": "^6.2.2",
+      "ora": "^3.2.0"
+    }
+  }
